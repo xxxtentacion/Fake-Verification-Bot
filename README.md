@@ -21,10 +21,6 @@
 <p align="center">
   [Discord] - This Bot is a Script Gathering for Windows systems written in Python.
 </p>
-<h3><p align="center">
-  My work was never created to be used in a malicious way. I noticed that it was used to scam other people and I'm sorry about that.
-  I'm thinking of deleting this directory to avoid further damage.
-</p></h3>
 
 
 ## Disclaimer
